@@ -51,7 +51,6 @@ This project analyzes and forecasts daily electricity production from solar and 
 |---------------------|--------------------|----------------|
 | ![graph1](images/pred_vs_actual.png) | ![graph2](images/feature_importance.png) | ![graph3](images/seasonal_trend.png) |
 
-> *(Note: Replace these with your actual image paths)*
 
 ---
 
